@@ -22,7 +22,7 @@ redirect_from:
 versions:
   free-pro-team: '*'
   enterprise-server: '>=2.22'
----
+---8
 
 {% data reusables.package_registry.packages-ghes-release-stage %}
 
